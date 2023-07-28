@@ -15,4 +15,5 @@ Com ele é possível:
 
 ## Tecnologias Usadas
 
-![python-banner](https://github.com/LuanTSP/Python-Color-Picker/assets/103657198/fd212333-74db-453b-8c47-5d9aa08002b0)
+<img src="https://github.com/LuanTSP/Python-Color-Picker/assets/103657198/fd212333-74db-453b-8c47-5d9aa08002b0" alt="python-banner" width=300, height=120>
+<img src="https://github.com/LuanTSP/Python-Color-Picker/assets/103657198/5f4200f0-228e-4da2-b666-edb7430ad5d0" alt="customtkinter-banner" width=450, height=120>
