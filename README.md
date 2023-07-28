@@ -1,6 +1,8 @@
 # Python-Color-Picker
 A python GUI using customtkinter implementing a Color Picker App
 
+<img src="https://github.com/LuanTSP/Python-Color-Picker/assets/103657198/f634843b-51ed-4582-af23-cd479665ebdc" alt="color-picker" width=512 height=512>
+
 *App feito usando as bibliotecas do Tkinter, customtkinter nativas do Python*
 
 ** O objetivo deste projeto era de implementar um aplicativo simples para a seleção de cores**
