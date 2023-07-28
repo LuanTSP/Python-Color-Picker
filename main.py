@@ -7,7 +7,7 @@ class App(ctk.CTk):
     def __init__(self):
         # initial setup
         super().__init__()
-        self.title("ColorX")
+        self.title("Color-Picker")
         self.geometry('600x500')
         self.resizable(width=False, height=False)
 
