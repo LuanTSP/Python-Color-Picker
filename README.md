@@ -10,6 +10,9 @@ Com ele é possível:
 - Copiar cores para clipbord simplesmente clicando de uma paleta de cores predefinida
 - Pode-se mudar a paleta de cores para qualquer uma mudando simplesmente o arquivo palettes.json
 
+## Instalation
+- Para usar o programa simplesmente clone o repositório para a pasta de interesse, abra o terminal na paste e execute o comando: python main.py
+
 ## Tecnologias Usadas
 
 ![python-banner](https://github.com/LuanTSP/Python-Color-Picker/assets/103657198/fd212333-74db-453b-8c47-5d9aa08002b0)
