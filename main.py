@@ -263,7 +263,7 @@ class ColorTools(ctk.CTkFrame):
         self.grid(row=1, column=0, columnspan=2, sticky='nswe', padx=5, pady=5)
     
     def load_grid(self):
-        path = os.path.join(os.path.curdir, 'palettes.json')
+        path = os.path.join(os.path.dirname(__file__), 'palettes.json')
         f = open(path, 'r')
         data = json.load(f)['colors']
 
