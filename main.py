@@ -1,6 +1,7 @@
 import customtkinter as ctk
 import json
 import pyperclip
+import os
 
 
 class App(ctk.CTk):
@@ -262,7 +263,8 @@ class ColorTools(ctk.CTkFrame):
         self.grid(row=1, column=0, columnspan=2, sticky='nswe', padx=5, pady=5)
     
     def load_grid(self):
-        f = open('palettes.json', 'r')
+        path = os.path.join(os.path.curdir, 'palettes.json')
+        f = open(path, 'r')
         data = json.load(f)['colors']
 
         for i in range(5):
