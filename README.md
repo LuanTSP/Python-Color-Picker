@@ -14,7 +14,7 @@ Com ele é possível:
 
 ## Instalação
 - Para usar o programa simplesmente clone o repositório para a pasta de interesse, abra o terminal na paste e execute o comando: python main.py
-- Se quiser utilizar o programa através do comando **colorpicker** de qualquer lugar no terminal, adicione: alias colorpicker="<caminho-interpretador-python>" "<caminho-main.py>" em seu arquivo de configuração .bashrc ou .zshrc
+- Se quiser utilizar o programa através do comando **colorpicker** de qualquer lugar no terminal, adicione: alias colorpicker="caminho-interpretador-python" "caminho-main.py" em seu arquivo de configuração .bashrc ou .zshrc
 
 ## Tecnologias Usadas
 
