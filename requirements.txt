@@ -1,0 +1,4 @@
+customtkinter
+json
+pyperclip
+os
