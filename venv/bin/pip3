@@ -1,4 +1,4 @@
-#!/home/luantsp/Documentos/Projects/Python/Python-Color-Picker/venv/bin/python
+#!/home/luantsp/Documentos/Projetos/Python-Color-Picker/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

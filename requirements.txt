@@ -1,4 +1,2 @@
 customtkinter
-json
 pyperclip
-os
